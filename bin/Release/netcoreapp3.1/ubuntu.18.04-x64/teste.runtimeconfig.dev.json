@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bahia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bahia\\.nuget\\packages"
+    ]
+  }
+}
