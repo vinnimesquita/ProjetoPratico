@@ -30,7 +30,7 @@ namespace teste
             services.AddControllers();
 
             services.AddDbContext<BDContexto>(option =>
-                option.UseMySQL("server=localhost;port=3306;user=admin;password=Redes@uni123;database=projeto_teste")
+                option.UseMySQL("server=localhost;port=3306;user=admin;password=Senha_banco;database=nome_projeto")
             );
         }
 
